@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Skybertronic
+- 👋 Hi, I’m Skybertronic
 - 👀 I’m interested in coding Games and Discord Bots
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a template community for discord

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Skybertronic
 - 👀 I’m interested in coding Games and Discord Bots
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on a template community for discord
+- 💞️ I’m looking to collaborate on creating a template community for Discord servers
 - 📫 How to reach me discord.gg/SJ9tmPQt3E

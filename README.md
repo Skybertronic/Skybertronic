@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Skybertronic
+- 👋 Hi, I’m Tim Miguletz
 - 👀 I’m interested in coding Games and Discord Bots
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on creating a template community for Discord servers
-- 📫 How to reach me discord.gg/SJ9tmPQt3E
+- 🌱 I’m currently learning Typescript / React
